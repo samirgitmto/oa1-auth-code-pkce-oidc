@@ -1,3 +1,4 @@
 # docs folders (excluded from repo)
 m-auth docs/
 m2-auth-angular docs/
+m-resource docs/
